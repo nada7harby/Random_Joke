@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  height: 850px;
+  align-content: center;
+  flex-wrap: wrap;
+  background-color: #99e0f6;
+}
+.row {
+  width: 750px;
+  background-color: #48a8cc;
+  padding: 33px 40px;
+  border-radius: 20px;
+}
+img {
+  height: 150px;
+}
+p {
+  text-align: center;
+  font-size: 19px;
+  color: #fff;
+  font-weight: 600;
+}
+.btn {
+  font-size: 22px;
+}
